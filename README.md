@@ -1,5 +1,5 @@
-- # Hi, I'm Carmela
-
+# Hi, I'm Carmela
+- You can reach me at Cjenc24@germantownacademy.org
 👋 Hi, I’m @Cjenc24
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
