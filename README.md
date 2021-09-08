@@ -1,10 +1,16 @@
-# Hi, I'm Carmela
-- You can reach me at Cjenc24@germantownacademy.org
-👋 Hi, I’m @Cjenc24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Carmela 🏔️
+## Reasons for taking Computer Science
+*
+*
+*
+## Interests
+*
+*
+*
+## Goals
+*
+*
+*
 
 <!---
 Cjenc24/Cjenc24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
