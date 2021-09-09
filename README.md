@@ -2,7 +2,7 @@
 ### Previous Coding Experience 🏔️
 * Introductory classes in elementary and middle school
 ### Reasons for taking Computer Science 🏜️
-* Wanted to develope a new and useful skill
+* Wanted to develop a new and useful skill
 * Thought it might be fun
 ### Interests 🌃
 * Baking
@@ -10,9 +10,9 @@
 * Music
 * History
 ### Goals 🌉
-*
-*
-*
+* Learn to code websites
+* Learn to code games
+
 
 <!---
 Cjenc24/Cjenc24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
