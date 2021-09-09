@@ -1,15 +1,15 @@
-# Hi, I'm Carmela 🏔️
-### Previous Coding Experience
-*
-### Reasons for taking Computer Science
-*
-*
-*
-### Interests
-*
-*
-*
-### Goals
+# Hi, I'm Carmela 👋
+### Previous Coding Experience 🏔️
+* Introductory classes in elementary and middle school
+### Reasons for taking Computer Science 🏜️
+* Wanted to develope a new and useful skill
+* Thought it might be fun
+### Interests 🌃
+* Baking
+* Tennis
+* Music
+* History
+### Goals 🌉
 *
 *
 *
