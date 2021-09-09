@@ -10,6 +10,7 @@
 * Music
 * History
 ### Goals 🌉
+* To improve problem solving skills
 * Learn to code websites
 * Learn to code games
 
