@@ -1,13 +1,15 @@
 # Hi, I'm Carmela 🏔️
-## Reasons for taking Computer Science
+### Previous Coding Experience
+*
+### Reasons for taking Computer Science
 *
 *
 *
-## Interests
+### Interests
 *
 *
 *
-## Goals
+### Goals
 *
 *
 *
