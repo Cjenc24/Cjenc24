@@ -8,7 +8,6 @@
 * Baking
 * Tennis
 * Music
-* History
 ### Goals 🌉
 * To improve problem solving skills
 * Learn to code websites
